@@ -1,0 +1,26 @@
+/*font family*/
+
+p{
+	font-family: "Spirax";
+}
+
+h1{
+	font-family: "Robota";
+}
+
+/* font size */
+
+h1{
+	font-size: 50px;
+}
+
+/*font-weight*/
+
+p{
+	font-weight: normal;
+}
+
+/* line-height */
+p{
+	line-height: 1.5;
+}

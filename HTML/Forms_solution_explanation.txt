@@ -1,0 +1,20 @@
+Forms in HTML:
+For the solution explanation:
+
+the tag to go along inside the form is
+<input name="the name you decide for the element" type="name/radio/checkbox/email/password" placeholder="optional" required>
+<label> is the name to be displayed on the screen, usually specified by an id listed in the input tag
+required parameter tells the user that the field is mandatory
+
+RadioButtons and Checkboxes need to have a value attribute associated with it
+eg: <input name="gender" type="radio" value="male" required>
+<label for="gender">Male</label>
+
+The submit button has a special input type="submit" and value="Submit"
+
+the select tag usage:
+<select name="Month" placeholder="Month">
+	<option value="Jan">Jan</option>
+	<option value="Feb">Feb</option>
+	<option value="March">March</option>
+</select>

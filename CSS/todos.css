@@ -1,0 +1,26 @@
+/*body{
+	background: orange;
+}*/
+/*
+Element Selector
+Selects all instances of a given element*/
+
+li{
+	border: 2px solid red;
+}
+
+/*ID Selector
+Selects an element with a given ID. Only one per page
+*/
+
+#study {
+	border: 2px dashed blue;
+	background: yellow;
+}
+
+/*Class Selector
+Selects all elements within a given class*/
+
+.completed{
+	text-decoration: line-through;
+}
